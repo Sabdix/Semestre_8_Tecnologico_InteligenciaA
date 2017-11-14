@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arbol>
+  <persona id="1">
+    <nombre>Alejandra</nombre>
+    <apellido1>Arredondo</apellido1>
+    <apellido2>Rodriguez</apellido2>
+  </persona>
+  <persona id="3">
+    <nombre>Alejandra</nombre>
+    <apellido1>Arredondo</apellido1>
+    <apellido2>Rodriguez</apellido2>
+  </persona>
+</arbol>

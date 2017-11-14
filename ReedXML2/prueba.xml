@@ -1,0 +1,18 @@
+<familia>
+  <hijo_de>
+      <hijo genero="hombre">sabdi</hijo>
+      <padre>eleazar</padre>
+  </hijo_de>
+  <hijo_de>
+      <hijo genero="mujer">viri</hijo>
+      <padre>eleazar</padre>
+  </hijo_de>
+  <hijo_de>
+      <hijo genero="hombre">eleazar</hijo>
+      <padre>jose</padre>
+  </hijo_de>
+  <hijo_de>
+      <hijo genero="hombre">benjamin</hijo>
+      <padre>jose</padre>
+  </hijo_de>
+</familia>
